@@ -1,7 +1,5 @@
 
-let theTeam = [obj];
-
-let obj = {
+let theTeam = [{
     "name": "Hakan",
     "surname": "Borazan",
     "age": "29",
@@ -10,5 +8,5 @@ let obj = {
     "favoriteFilm": "Godfather",
     "favoriteBook": "Robinson Cruose",
     "petName": "none"
+}];
 
-}
