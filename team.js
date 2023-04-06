@@ -34,6 +34,16 @@ let theTeam = [
         "favoriteFilm": "Godfather",
         "favoriteBook": "Robinson Cruose",
         "petName": "none"
-    }
+    },
+    {
+    name : "thalia",
+    surname : "telopoulou",
+    age : 25,
+    city : "volos",
+    hobby : "swimming",
+    favoriteFood : "pizza",
+    favoriteVideoGame : "theWitcher",
+    favoriteFilm : "interstellar",
+    favoriteBook : "theGreatGatsby",
+    petName : "diego"}
 ];
-
