@@ -46,4 +46,16 @@ let theTeam = [
     favoriteBook: "theGreatGatsby",
     petName: "diego",
   },
+  {
+    name: "Carlos",
+    surname: "Gomez",
+    age: 30,
+    city: "Barcelona",
+    hobby: "climbing",
+    favoriteFood: "pizza",
+    favoriteVideoGame: "God of War",
+    favoriteFilm: "Shrek",
+    favoriteBook: "the lean startup",
+    petName: "Becky & Almos",
+  },
 ];
